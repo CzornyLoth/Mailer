@@ -1,0 +1,11 @@
+C:\Users\demon\source\repos\Mailer\Mailer\bin\Debug\netcoreapp2.0\Mailer.deps.json
+C:\Users\demon\source\repos\Mailer\Mailer\bin\Debug\netcoreapp2.0\Mailer.runtimeconfig.json
+C:\Users\demon\source\repos\Mailer\Mailer\bin\Debug\netcoreapp2.0\Mailer.runtimeconfig.dev.json
+C:\Users\demon\source\repos\Mailer\Mailer\bin\Debug\netcoreapp2.0\Mailer.dll
+C:\Users\demon\source\repos\Mailer\Mailer\bin\Debug\netcoreapp2.0\Mailer.pdb
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.csprojResolveAssemblyReference.cache
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.csproj.CoreCompileInputs.cache
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.AssemblyInfoInputs.cache
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.AssemblyInfo.cs
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.dll
+C:\Users\demon\source\repos\Mailer\Mailer\obj\Debug\netcoreapp2.0\Mailer.pdb
